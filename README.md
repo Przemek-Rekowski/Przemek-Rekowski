@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Przemysław Rekowski</h1>
-<h3 align="center">While writing this readme file, I am 20 years old, and I have spent 1/4 of my lifetime trying to become a software engineer in the future.</h3>
+<h3 align="center">While writing this readme file, I am 20 years old, and I have spent 1/4 of my lifetime trying to become a software engineer</h3>
 
 - 🔭 I’m currently working on [PetShop](https://github.com/Przemek-Rekowski/PetShop)
 
