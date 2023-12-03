@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Przemysław Rekowski</h1>
 <h3 align="center">While writing this readme file, I am 20 years old, and I have spent 1/4 of my lifetime trying to become a software engineer</h3>
 
-- 🔭 I’m currently working on [PetShop](https://github.com/Przemek-Rekowski/PetShop)
+- 🔭 2023 was a year of incredible learning for me. I'm in the process of revamping my portfolio to reflect all that I've gained. Stay tuned!
 
-- 📫 How to reach me **rekowskiprzemyslaw03@gmail.com**
+- 📫 You can reach me here -----> **rekowskiprzemyslaw03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
