@@ -1,5 +1,4 @@
-<h1 align="center">✨ Hello There ✨</h1>
-<h3 align="center">I'm Przemek, and here, you'll have the opportunity to explore the repositories that I am working on. Enjoy!</h3>
+<h1 align="center">✨ Przemek-Rekowski Repositories ✨</h1>
 
 <br>
 
